@@ -1,350 +1,437 @@
 {
   "cartas": {
     "26000000": {
+      "id": "26000000",
       "nome": "Cavaleiro",
       "descricao": "Um resistente lutador de corpo a corpo. O primo bonito e culto do Bárbaro. Dizem que foi nomeado cavaleiro só por causa do bigode impressionante."
     },
     "26000001": {
+      "id": "26000001",
       "nome": "Arqueiras",
       "descricao": "Um par de atacantes a distância, de armadura leve. Elas ajudam na batalha contra unidades terrestres e aéreas, mas não contam o segredo de seus cabelos impecáveis."
     },
     "26000002": {
+      "id": "26000002",
       "nome": "Goblins",
       "descricao": "Três atacantes de corpo a corpo rápidos, sem armaduras. Pequenos, rápidos, verdes e malvados!"
     },
     "26000003": {
+      "id": "26000003",
       "nome": "Gigante",
       "descricao": "Lento, mas durão, só ataca construções. É um trator sobre duas pernas!"
     },
     "26000004": {
+      "id": "26000004",
       "nome": "P.E.K.K.A",
       "descricao": "Uma lutadora de corpo a corpo lenta e com armadura pesada. Pode ser um pouco desequilibrada, mas tem um soco de impacto."
     },
     "26000005": {
+      "id": "26000005",
       "nome": "Servos",
       "descricao": "É um pássaro? É um avião? Não, são três atacantes voadores rápidos, sem armaduras, que vão acabar com você!"
     },
     "26000006": {
+      "id": "26000006",
       "nome": "Balão",
       "descricao": "Por mais bonitos que sejam, você não vai querer ver estes balões aparecendo no horizonte. Eles lançam bombas potentes e, quando derrubados, causam dano em área."
     },
     "26000007": {
+      "id": "26000007",
       "nome": "Bruxa",
       "descricao": "Evoca Esqueletos, lança raios terríveis e tem olhos rosa incandescentes que infelizmente não disparam raios laser."
     },
     "26000008": {
+      "id": "26000008",
       "nome": "Bárbaros",
       "descricao": "Uma horda de atacantes de corpo a corpo com bigodes terríveis e um temperamento ainda pior."
     },
     "26000009": {
+      "id": "26000009",
       "nome": "Golem",
       "descricao": "Lento, porém resistente. Só ataca construções. Ao ser destruído, explode causando dano em área e dividindo-se em dois Golemitas!"
     },
     "26000010": {
+      "id": "26000010",
       "nome": "Esqueletos",
       "descricao": "Três lutadores de corpo a corpo fracos, porém muito velozes. Enterre seus inimigos nesta pilha de ossos!"
     },
     "26000011": {
+      "id": "26000011",
       "nome": "Valquíria",
       "descricao": "Lutadora de corpo a corpo resistente, causa danos na área em sua volta. Bando ou horda, não importa! Ela só precisa de alguns giros para destruir o inimigo!"
     },
     "26000012": {
+      "id": "26000012",
       "nome": "Exército de Esqueletos",
       "descricao": "Gera um exército de Esqueletos. Encontre Tico e seus amigos Teco, Taco, Toco, Tuco, Jorge e cia."
     },
     "26000013": {
+      "id": "26000013",
       "nome": "Bombardeiro",
       "descricao": "Um Esqueleto pequeno, levemente protegido, que lança bombas. Causa dano em área que pode eliminar um bando de inimigos."
     },
     "26000014": {
+      "id": "26000014",
       "nome": "Mosqueteira",
       "descricao": "Não se deixe enganar por seu cabelo cuidadosamente penteado: a Mosqueteira é uma atiradora infalível."
     },
     "26000015": {
+      "id": "26000015",
       "nome": "Bebê Dragão",
       "descricao": "Tropa voadora que causa dano em área. Bebês Dragões nascem fofos, com fome e prontos para o churrasco."
     },
     "26000016": {
+      "id": "26000016",
       "nome": "Príncipe",
       "descricao": "Não se engane com a carinha do pequeno pônei. Quando o Príncipe começar a correr, você será atropelado. Causa o dobro de dano ao atacar correndo."
     },
     "26000017": {
+      "id": "26000017",
       "nome": "Mago",
       "descricao": "O homem mais impressionante que já pisou na arena, o Mago não é só um rostinho bonito: ele deixará todos boquiabertos com suas bolas de fogo!"
     },
     "26000018": {
+      "id": "26000018",
       "nome": "Mini P.E.K.K.A",
       "descricao": "A arena é comprovadamente uma zona sem borboletas. Nenhuma distração para Mini P.E.K.K.A, só destruição."
     },
     "26000019": {
+      "id": "26000019",
       "nome": "Goblins Lanceiros",
       "descricao": "Três atacantes a distância sem armadura. Quem teve a ideia de ensinar os caras a atirar lanças? Quem achou que isso daria certo?"
     },
     "26000020": {
+      "id": "26000020",
       "nome": "Esqueleto Gigante",
       "descricao": "Quanto maior o esqueleto, maior a bomba. Traz uma bomba que explode quando o Esqueleto Gigante morre."
     },
     "26000021": {
+      "id": "26000021",
       "nome": "Corredor",
       "descricao": "Tropa rápida de corpo a corpo que alveja construções e pode pular sobre o rio. Veio para a batalha atendendo ao chamado de outro Corredor."
     },
     "26000022": {
+      "id": "26000022",
       "nome": "Horda de Servos",
       "descricao": "Seis atacantes voadores rápidos, sem armadura. Três é demais, seis é uma horda!"
     },
     "26000023": {
+      "id": "26000023",
       "nome": "Mago de Gelo",
       "descricao": "Lança gelo para diminuir a velocidade de movimento e de ataque dos inimigos. A personalidade é gélida, mas o charme do bigode é caliente!"
     },
     "26000024": {
+      "id": "26000024",
       "nome": "Gigante Real",
       "descricao": "Destruir construções inimigas com um canhão enorme é seu trabalho. Cuidar da barba loura é sua paixão."
     },
     "26000025": {
+      "id": "26000025",
       "nome": "Guardas",
       "descricao": "Três irmãos esqueléticos e destemidos com escudos. Derrube os escudos e só sobrarão três irmãos esqueléticos e destemidos."
     },
     "26000026": {
+      "id": "26000026",
       "nome": "Princesa",
       "descricao": "Esta bela Princesa lança flechas flamejantes de longe. Se ela aquece o seu coração, pode ser porque você pegou fogo."
     },
     "26000027": {
+      "id": "26000027",
       "nome": "Príncipe das Trevas",
       "descricao": "O Príncipe das Trevas causa dano em área e deixa seu amigo espinhento resolver tudo, porque, quando ele fala, parece ter um balde na cabeça."
     },
     "26000028": {
+      "id": "26000028",
       "nome": "Três Mosqueteiras",
       "descricao": "Um trio de mulheres poderosas e independentes que lutam por justiça e honra. Desrespeitá-las não seria somente um erro, como também um verdadeiro pecado."
     },
     "26000029": {
+      "id": "26000029",
       "nome": "Lava Hound",
       "descricao": "O Lava Hound é uma majestosa fera voadora que ataca construções. Os Lava Pups são bebês irritados e deselegantes que atacam tudo pela frente."
     },
     "26000030": {
+      "id": "26000030",
       "nome": "Espírito de Gelo",
       "descricao": "Gera um pequeno Espírito de Gelo para congelar um grupo de inimigos. Fique frio!"
     },
     "26000031": {
+      "id": "26000031",
       "nome": "Espíritos de Fogo",
       "descricao": "Esses três Espíritos de Fogo estão em uma missão kamikaze para dar um abraço quentinho em você. Seria uma delícia se eles não estivessem pegando fogo."
     },
     "26000032": {
+      "id": "26000032",
       "nome": "Mineiro",
       "descricao": "O Mineiro consegue passar por debaixo da terra e aparecer em qualquer lugar da arena. Não é mágica. Chama-se pá!"
     },
     "26000033": {
+      "id": "26000033",
       "nome": "Sparky",
       "descricao": "Sparky carrega lentamente, depois causa um dano TREMENDO em área. Sobrecarga é apelido."
     },
     "26000034": {
+      "id": "26000034",
       "nome": "Lançador",
       "descricao": "Este grandalhão azul gosta das coisas boas da vida: drinques com elixir negro e atirar pedras. Suas pedras enormes passam por cima do alvo, acertando tudo que estiver atrás!"
     },
     "26000035": {
+      "id": "26000035",
       "nome": "Lenhador",
       "descricao": "Ele corta árvores de dia e caça O Tronco à noite. Sua garrafa de Fúria vaza por todos os lados quando ele morre."
     },
     "26000036": {
+      "id": "26000036",
       "nome": "Aríete de Batalha",
       "descricao": "Dois Bárbaros com um tronco gigante correm para a construção mais próxima e causam danos significativos ao chegar lá, depois partem pra briga com espadas!"
     },
     "26000037": {
+      "id": "26000037",
       "nome": "Dragão Infernal",
       "descricao": "Dispara um raio de fogo concentrado com dano que aumenta com o tempo. Usa um capacete porque voar tem seus perigos."
     },
     "26000038": {
+      "id": "26000038",
       "nome": "Golem de Gelo",
       "descricao": "Durão, mira em construções e explode quando é destruído, atrasando inimigos próximos. Feito de gelo. Será? Sim."
     },
     "26000039": {
+      "id": "26000039",
       "nome": "Megasservo",
       "descricao": "Voa, tem armadura e grande poder. Sua única fraqueza são bolinhos."
     },
     "26000040": {
+      "id": "26000040",
       "nome": "Goblin com Dardo",
       "descricao": "Corre muito, atira longe e ainda masca chiclete! Como consegue lançar dardos com a boca cheia de chiclete? Anos de prática!"
     },
     "26000041": {
+      "id": "26000041",
       "nome": "Gangue de Goblins",
       "descricao": "Gera cinco Goblins, três com facas e dois com lanças, por um custo mais baixo de elixir. É um pacote especial de Goblins!"
     },
     "26000042": {
+      "id": "26000042",
       "nome": "Mago Elétrico",
       "descricao": "Ele cai com um POW!, atordoa os inimigos que estiverem por perto e lança relâmpagos com as duas mãos. Que exibido!"
     },
     "26000043": {
+      "id": "26000043",
       "nome": "Bárbaros de Elite",
       "descricao": "Gera dois Bárbaros turbinados. São como os Bárbaros normais, só que mais fortes, melhores e mais rápidos."
     },
     "26000044": {
+      "id": "26000044",
       "nome": "Caçador",
       "descricao": "Ele causa MUITO dano ao se aproximar do alvo, mas já não podemos dizer o mesmo a longo alcance. As sobrancelhas charmosas compensam a falta de precisão."
     },
     "26000045": {
+      "id": "26000045",
       "nome": "Executor",
       "descricao": "Ele lança seu machado como um bumerangue, atingindo todos os inimigos no caminho de ida e de volta. É um milagre ele não perder um braço."
     },
     "26000046": {
+      "id": "26000046",
       "nome": "Bandida",
       "descricao": "A Bandida corre para o alvo e começa um ataque poderoso! Enquanto corre, ninguém pode tocá-la. A máscara protege sua identidade e dá uns pontinhos extras a ela!"
     },
     "26000047": {
+      "id": "26000047",
       "nome": "Recrutas Reais",
       "descricao": "Uma linha de recrutas equipados com lanças, escudos e capacetes de madeira. O sonho deles é ter um pônei e um capacete de metal."
     },
     "26000048": {
+      "id": "26000048",
       "nome": "Bruxa Sombria",
       "descricao": "Ela invoca morcegos para tomarem a dianteira, mesmo após a morte! Se você chegar muito perto, ela mostrará quem manda na parada."
     },
     "26000049": {
+      "id": "26000049",
       "nome": "Morcegos",
       "descricao": "Gera um punhado de criaturinhas voadoras. São fofinhas, roxinhas e estão com sede de PURA DESTRUIÇÃO!"
     },
     "26000050": {
+      "id": "26000050",
       "nome": "Fantasma Real",
       "descricao": "Ele vaga pela arena invisivelmente até se deparar com algum inimigo... E, então, ele ataca! Depois fica invisível de novo. Zzzz..."
     },
     "26000052": {
+      "id": "26000052",
       "nome": "Eletrocutadores",
       "descricao": "Gera máquinas adoravelmente mortais que dão choque. Quem está por trás disso? Só o mestre construtor tem a resposta."
     },
     "26000053": {
+      "id": "26000053",
       "nome": "Patifes",
       "descricao": "Gera um trio de Patifes arteiros! O menino toma a frente, e as meninas vêm logo atrás prontas para atacar... com estilingues cheios de chiclete!"
     },
     "26000054": {
+      "id": "26000054",
       "nome": "Carrinho de Canhão",
       "descricao": "Um canhão de rodinhas! Quem podia imaginar? Depois que você quebra o escudo, ele vira um canhão normal."
     },
     "26000055": {
+      "id": "26000055",
       "nome": "Megacavaleiro",
       "descricao": "Ele chega com a força de mil bigodes, depois pula de inimigo em inimigo causando grande dano em área. Saia da frente!"
     },
     "26000056": {
+      "id": "26000056",
       "nome": "Barril de Esqueletos",
       "descricao": "É uma festa de Esqueletos no céu até que todos os balões sejam estourados... Aí vira uma festa de Esqueletos no chão!"
     },
     "26000057": {
+      "id": "26000057",
       "nome": "Máquina Voadora",
       "descricao": "O mestre construtor enviou sua primeira engenhoca para a arena! É uma máquina voadora veloz e divertida, porém frágil."
     },
     "26000059": {
+      "id": "26000059",
       "nome": "Porcos Reais",
       "descricao": "Os bichinhos de estimação do rei estão à solta! Eles adoram morder de tudo, desde maçãs até torres. Porquinho, que som é esse?"
     },
     "26000062": {
+      "id": "26000062",
       "nome": "Arqueiro Mágico",
       "descricao": "Não é nem um Mago, nem uma Arqueira. Ele atira com uma flecha mágica que passa danificando tudo pelo caminho. Não é tecnologia, é feitiçaria!"
     },
     "27000000": {
+      "id": "27000000",
       "nome": "Canhão",
       "descricao": "Construção defensiva. Atira balas de canhão de efeito letal, mas não pode atingir tropas voadoras."
     },
     "27000001": {
+      "id": "27000001",
       "nome": "Cabana de Goblins",
       "descricao": "Construção que gera Goblins Lanceiros. Mas não olhe lá dentro: é melhor não saber como são feitos..."
     },
     "27000002": {
+      "id": "27000002",
       "nome": "Morteiro",
       "descricao": "Construção defensiva de longo alcance. Lança pedregulhos enormes que causam dano em área, mas não consegue atacar alvos muito próximos!"
     },
     "27000003": {
+      "id": "27000003",
       "nome": "Torre Inferno",
       "descricao": "Construção defensiva, cozinha seus alvos e causa danos que aumentam com o tempo. Queima até os maiores e mais resistentes inimigos!"
     },
     "27000004": {
+      "id": "27000004",
       "nome": "Torre de Bombas",
       "descricao": "Construção defensiva que aloja um Bombardeiro. Causa dano em área a qualquer coisa tola o suficiente para ficar perto dele."
     },
     "27000005": {
+      "id": "27000005",
       "nome": "Cabana de Bárbaros",
       "descricao": "Construção que gera Bárbaros periodicamente, enviando-os para a luta contra o inimigo. Hora de barbarizar!"
     },
     "27000006": {
+      "id": "27000006",
       "nome": "Tesla",
       "descricao": "Construção defensiva. Quando o Eletruque não estiver aterrorizando o inimigo, sua energia é que deve ser aterrada."
     },
     "27000007": {
+      "id": "27000007",
       "nome": "Coletor de Elixir",
       "descricao": "É preciso gastar elixir para produzir elixir."
     },
     "27000008": {
+      "id": "27000008",
       "nome": "X-Besta",
       "descricao": "Que bela torre você tem! Seria uma pena se esta X-Besta acabasse com ela flecha por flecha, do outro lado da arena..."
     },
     "27000009": {
+      "id": "27000009",
       "nome": "Lápide",
       "descricao": "Construção que mobiliza Esqueletos periodicamente para lutar contra o inimigo. Ao ser destruída, gera 4 Esqueletos. Sinistro!"
     },
     "27000010": {
+      "id": "27000010",
       "nome": "Fornalha",
       "descricao": "A Fornalha gera dois Espíritos de Fogo ao mesmo tempo. Também faz umas panquecas divinas."
     },
     "28000000": {
+      "id": "28000000",
       "nome": "Bola de Fogo",
       "descricao": "Eeeee... Bola de Fogo! Incinera uma pequena área, causando muito dano. Dano reduzido às torres da coroa."
     },
     "28000001": {
+      "id": "28000001",
       "nome": "Flechas",
       "descricao": "As flechas atingem uma área extensa, danificando todos os inimigos. Dano reduzido às torres da coroa."
     },
     "28000002": {
+      "id": "28000002",
       "nome": "Fúria",
       "descricao": "Aumenta a velocidade de movimento e de ataque das tropas. Também faz construções atacar e evocar tropas mais rápido. Atacaaaar!"
     },
     "28000003": {
+      "id": "28000003",
       "nome": "Foguete",
       "descricao": "Causa dano severo em uma área pequena e de forma bem impressionante! Dano reduzido às torres da coroa."
     },
     "28000004": {
+      "id": "28000004",
       "nome": "Barril de Goblins",
       "descricao": "Gera três Goblins em qualquer lugar da Arena. Cara, isso vai ser uma viagem!"
     },
     "28000005": {
+      "id": "28000005",
       "nome": "Gelo",
       "descricao": "Congela tropas e construções, tornando-as incapazes de se mover ou de atacar. Todo mundo fica frio."
     },
     "28000006": {
+      "id": "28000006",
       "nome": "Espelho",
       "descricao": "Reproduz a última carta jogada por +1 unidade de elixir."
     },
     "28000007": {
+      "id": "28000007",
       "nome": "Relâmpago",
       "descricao": "Raios atingem até três tropas ou construções inimigas com o maior número de pontos de vida na área de efeito. Dano reduzido às torres da coroa."
     },
     "28000008": {
+      "id": "28000008",
       "nome": "Zap",
       "descricao": "Eletrocuta e atordoa os inimigos, causando dano em uma área pequena. Dano reduzido às torres da coroa."
     },
     "28000009": {
+      "id": "28000009",
       "nome": "Veneno",
       "descricao": "Cobre a área com uma toxina mortal, danificando tropas e construções inimigas. Mas deixa a grama verdinha e saudável. Vai entender..."
     },
     "28000010": {
+      "id": "28000010",
       "nome": "Cemitério",
       "descricao": "Surpresa! É festa! Festa de Esqueletos, em qualquer lugar da arena! Oba!"
     },
     "28000011": {
+      "id": "28000011",
       "nome": "O Tronco",
       "descricao": "Uma garrafa de Fúria se quebrou e transformou um tronco inocente em... O Tronco! Agora, ele busca a vingança destruindo tudo pelo caminho!"
     },
     "28000012": {
+      "id": "28000012",
       "nome": "Tornado",
       "descricao": "Arrasta as tropas inimigas para o seu olho, causando dano ao longo do tempo, como um ímã: um tornado gigante que pensa que é um ímã. Não afeta construções."
     },
     "28000013": {
+      "id": "28000013",
       "nome": "Clone",
       "descricao": "Duplica todas as tropas aliadas na área de alvo. As tropas clonadas são vulneráveis, mas têm a mesma força da original. Não afeta construções."
     },
     "28000015": {
+      "id": "28000015",
       "nome": "Barril de Bárbaro",
       "descricao": "Sai rolando e atropelando tudo que esteja pelo caminho. Depois, se quebra e solta um Bárbaro! Como é que ele foi parar lá?"
     },
     "28000016": {
+      "id": "28000016",
       "nome": "Cura",
       "descricao": "Cure suas tropas para que continuem lutando. As tropas aliadas são curadas enquanto estiverem dentro do alcance do feitiço. Construções não são afetadas."
     },
     "28000017": {
+      "id": "28000017",
       "nome": "Bola de Neve",
       "descricao": "A Bola de Neve é enorme! Depois que começa a descer rolando pelo Pico Congelado, não tem como parar. Inimigos atingidos são empurrados e perdem velocidade."
     }
